@@ -21,8 +21,7 @@ Yes, of course it is.
 You can view an example document on the Flashcards github page.
 
  
-
-Double click the Flashcards.bat file to run the program.
+Make sure the Flashcards.jar and Flashcards.bat file are in the same folder. Double click the Flashcards.bat file to run the program.
 
 It will then prompt you for a filepath for your txt file with questions. Drag your text file into the command prompt and press enter.
 
