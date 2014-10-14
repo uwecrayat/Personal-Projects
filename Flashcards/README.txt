@@ -22,7 +22,7 @@ You can view an example document on the Flashcards github page.
 
  
 
-Open the command prompt (cmd.exe) and type "java -jar " without the quotes and then drag the .jar file into the command prompt. Press enter.
+Double click the Flashcards.bat file to run the program.
 
 It will then prompt you for a filepath for your txt file with questions. Drag your text file into the command prompt and press enter.
 
