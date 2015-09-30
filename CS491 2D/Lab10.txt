@@ -1,0 +1,6 @@
+Adam Ray
+
+What is the largest factorial you can actually calculate without using the BigInteger class?
+	The largest factorial you can calculate without using the BigInteger is 12!. 
+Why?
+	A primitive int can only store 32 bits and the BigInteger class can store arrays of 32 bits, which allows it to display such large numbers.
